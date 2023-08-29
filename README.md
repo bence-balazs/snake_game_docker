@@ -1,3 +1,4 @@
+# example docker run command
 docker run \
     -it --rm \
     --name snakegame \
